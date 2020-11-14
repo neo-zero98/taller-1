@@ -1,3 +1,3 @@
-import hector_sanchez as hs
+import caleb_hernandez as caleb
 
-hs.hector("Hellous")
+caleb.saludo("Hellous")
